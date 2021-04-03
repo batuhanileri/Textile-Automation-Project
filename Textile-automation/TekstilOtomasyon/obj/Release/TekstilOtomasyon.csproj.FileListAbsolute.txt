@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Release\TekstilOtomasyon.CalisanGuncelle.resources
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Release\TekstilOtomasyon.Degeral.resources
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Release\TekstilOtomasyon.Form1.resources
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Release\TekstilOtomasyon.Form2.resources
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Release\TekstilOtomasyon.Form3.resources
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Release\TekstilOtomasyon.Form30.resources
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Release\TekstilOtomasyon.Form4.resources
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Release\TekstilOtomasyon.Form45.resources
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Release\TekstilOtomasyon.Form6.resources
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Release\TekstilOtomasyon.Form7.resources
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Release\TekstilOtomasyon.Form8.resources
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Release\TekstilOtomasyon.Properties.Resources.resources
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Release\TekstilOtomasyon.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Release\TekstilOtomasyon.csproj.CoreCompileInputs.cache

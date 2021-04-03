@@ -1,0 +1,122 @@
+C:\Users\İsmail Onur İsafça\Source\Repos\TekstilOtomasyon\TekstilOtomasyon\bin\Debug\TekstilOtomasyon.exe.config
+C:\Users\İsmail Onur İsafça\Source\Repos\TekstilOtomasyon\TekstilOtomasyon\bin\Debug\TekstilOtomasyon.exe
+C:\Users\İsmail Onur İsafça\Source\Repos\TekstilOtomasyon\TekstilOtomasyon\bin\Debug\TekstilOtomasyon.pdb
+C:\Users\İsmail Onur İsafça\Source\Repos\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.csprojAssemblyReference.cache
+C:\Users\İsmail Onur İsafça\Source\Repos\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form1.resources
+C:\Users\İsmail Onur İsafça\Source\Repos\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Properties.Resources.resources
+C:\Users\İsmail Onur İsafça\Source\Repos\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.csproj.GenerateResource.cache
+C:\Users\İsmail Onur İsafça\Source\Repos\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\İsmail Onur İsafça\Source\Repos\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.exe
+C:\Users\İsmail Onur İsafça\Source\Repos\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.pdb
+C:\Users\İsmail Onur İsafça\Source\Repos\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form3.resources
+C:\Users\İsmail Onur İsafça\Source\Repos\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form2.resources
+C:\Users\İsmail Onur İsafça\Source\Repos\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form4.resources
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon\TekstilOtomasyon\bin\Debug\TekstilOtomasyon.exe.config
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon\TekstilOtomasyon\bin\Debug\TekstilOtomasyon.exe
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon\TekstilOtomasyon\bin\Debug\TekstilOtomasyon.pdb
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.csprojAssemblyReference.cache
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form1.resources
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form2.resources
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form3.resources
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form4.resources
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Properties.Resources.resources
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.csproj.GenerateResource.cache
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.exe
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.pdb
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form6.resources
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form7.resources
+C:\Users\Dell\Desktop\TekstilOtomasyon\TekstilOtomasyon\bin\Debug\TekstilOtomasyon.exe.config
+C:\Users\Dell\Desktop\TekstilOtomasyon\TekstilOtomasyon\bin\Debug\TekstilOtomasyon.exe
+C:\Users\Dell\Desktop\TekstilOtomasyon\TekstilOtomasyon\bin\Debug\TekstilOtomasyon.pdb
+C:\Users\Dell\Desktop\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form1.resources
+C:\Users\Dell\Desktop\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form2.resources
+C:\Users\Dell\Desktop\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form6.resources
+C:\Users\Dell\Desktop\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form7.resources
+C:\Users\Dell\Desktop\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Properties.Resources.resources
+C:\Users\Dell\Desktop\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.exe
+C:\Users\Dell\Desktop\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.pdb
+C:\Users\Dell\Desktop\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form3.resources
+C:\Users\Dell\Desktop\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form30.resources
+C:\Users\Dell\Desktop\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Degeral.resources
+C:\Users\Dell\Desktop\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.CalisanGuncelle.resources
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.CalisanGuncelle.resources
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Degeral.resources
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form1.resources
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form2.resources
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form3.resources
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form30.resources
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form4.resources
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form6.resources
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form7.resources
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form8.resources
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Properties.Resources.resources
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.exe
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.pdb
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form45.resources
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\bin\Debug\TekstilOtomasyon.exe.config
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\bin\Debug\TekstilOtomasyon.exe
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\bin\Debug\TekstilOtomasyon.pdb
+C:\Users\Dell\Desktop\o\TekstilOtomasyon\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form25.resources
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\bin\Debug\TekstilOtomasyon.exe.config
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\bin\Debug\TekstilOtomasyon.exe
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\bin\Debug\TekstilOtomasyon.pdb
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.csprojAssemblyReference.cache
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.CalisanGuncelle.resources
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Degeral.resources
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form1.resources
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form2.resources
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form25.resources
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form3.resources
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form30.resources
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form4.resources
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form45.resources
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form6.resources
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form7.resources
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form8.resources
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Properties.Resources.resources
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.csproj.GenerateResource.cache
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.exe
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.pdb
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form5.resources
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form9.resources
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form10.resources
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Kumasgüncelle.resources
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.siparisguncelle.resources
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.muhasebeguncelle.resources
+C:\Users\batu_\OneDrive\Masaüstü\TekstilOtomasyon (2)\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.pastalguncelle.resources
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\bin\Debug\TekstilOtomasyon.exe.config
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.exe
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.pdb
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\bin\Debug\TekstilOtomasyon.exe
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\bin\Debug\TekstilOtomasyon.pdb
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.csprojAssemblyReference.cache
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.CalisanGuncelle.resources
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Degeral.resources
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form1.resources
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form10.resources
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form2.resources
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form25.resources
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form3.resources
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form30.resources
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form4.resources
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form45.resources
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form5.resources
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form6.resources
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form7.resources
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form8.resources
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Form9.resources
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Kumasgüncelle.resources
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.muhasebeguncelle.resources
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.pastalguncelle.resources
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.Properties.Resources.resources
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.siparisguncelle.resources
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.csproj.GenerateResource.cache
+D:\ödevler\TekstilOtomasyon (2) - Kopya\TekstilOtomasyon\obj\Debug\TekstilOtomasyon.csproj.CoreCompileInputs.cache
